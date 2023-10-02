@@ -1,3 +1,7 @@
+## 1.3.0
+
+* Support for rxjava 3
+
 ## 1.2.0
 * ApiFuture - Java 8 conversion support (thanks to TheIndifferent)
 

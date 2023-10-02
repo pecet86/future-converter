@@ -1,7 +1,8 @@
 Future Converter [![Build Status](https://travis-ci.org/lukas-krecan/future-converter.png?branch=master)](https://travis-ci.org/lukas-krecan/future-converter) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.javacrumbs.future-converter/future-converter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.javacrumbs.future-converter/future-converter)
 ================
 
-Converts between various future types, [RxJava](https://github.com/Netflix/RxJava) Single, [RxJava 2](https://github.com/Netflix/RxJava) Single,
+Converts between various future types, [RxJava](https://github.com/Netflix/RxJava)
+Single, [RxJava 2](https://github.com/Netflix/RxJava) Single, [RxJava 3](https://github.com/Netflix/RxJava) Single,
 Spring 4 [ListenableFuture](http://docs.spring.io/spring/docs/4.0.0.BUILD-SNAPSHOT/javadoc-api/org/springframework/util/concurrent/ListenableFuture.html),
 Java 8 [CompletableFuture](http://download.java.net/lambda/b88/docs/api/java/util/concurrent/CompletableFuture.html) and
 Guava [ListenableFuture](http://docs.guava-libraries.googlecode.com/git-history/release/javadoc/com/google/common/util/concurrent/ListenableFuture.html).
